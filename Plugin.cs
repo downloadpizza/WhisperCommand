@@ -28,7 +28,7 @@ static class PluginInfo
 {
     public const string GUID = "net.downloadpizza.WhisperCommand";
     public const string NAME = "Whisper Command";
-    public const string VERSION = "0.0.1";
+    public const string VERSION = "1.0.0";
 }
 
 public static class Commands
